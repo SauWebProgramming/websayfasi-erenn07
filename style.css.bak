@@ -1,0 +1,20 @@
+body{
+	background-image:url(bground.jpg);
+  background-size:auto 100%;
+  
+  
+  }
+
+  p{
+	  text-align:center;
+	  font-size:24px;
+	  font-weight:100;
+	  
+  }
+
+
+
+.baslikresmi img{
+width:100%;
+
+}
