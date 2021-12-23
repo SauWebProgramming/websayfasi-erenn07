@@ -18,8 +18,8 @@
 		<div class="col">
 			<nav class="navbar navbar-expand-lg navbar-light bg-light">
 			  <div class="container-fluid">
-			  <img class="resim1"src="keskinhotel.jpg">
-				<a class="navbar-brand" href="#">Keskin Hotel</a>
+			  <img class="resim1"src="Anasayfa/keskinhotel.jpg">
+				<a class="navbar-brand" href="index.html">Keskin Hotel</a>
 				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
 				  <span class="navbar-toggler-icon"></span>
 				</button>
@@ -37,6 +37,19 @@
 			</nav>
 		</div>
 	  </div>
+	  
+	  <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+
+
+
+<div class="container">
+    <ol class="breadcrumb breadcrumb-arrow">
+		<li><a href="index.html">Ana Sayfa</a></li>
+		<li class="active"><span>Hakkımızda</span></li>
+	</ol>
+</div>
 
 <img class="hotel"src="hotel21.png">
 	  
@@ -46,9 +59,9 @@
 
 
 <ul class="blue-layer__list">
-	<li>3 yüzme havuzu (480 | 200 | 100 square meter)</li>
-	<li>3 pool bars</li>
-	<li>2 çocuk havuzu</li>
+	<li>3 adet yüzme havuzu (480 | 200 | 100 square meter)</li>
+	<li>3 adet havuz barı</li>
+	<li>2 adet çocuk havuzu</li>
 	<li>Kapalı restaurant (Kapasite: 300)</li>
 	<li>Açık restaurant (Kapasite: 200)</li>
 	<li>Atıştırmalık & Büfe Restaurant (Kapasite: 100)</li>
@@ -57,8 +70,8 @@
 </ul>
                                 <h2>SERTİFİKALAR</h2>
                                 <ul class="blue-layer__list">
-                                    <li><a href="Sertifikalar/sertifika_en.pdf" target="_blank">KESKİN OTEL Sertifika EN</a></li>
-                                    <li><a href="Sertifikalar/sertifika_tr.pdf" target="_blank">KESKİN OTEL Sertifika TR</a></li>
+                                    <li><a href="Hakkımızda/sertifika_en.pdf" target="_blank">KESKİN OTEL Sertifika EN</a></li>
+                                    <li><a href="Hakkımızda/sertifika_tr.pdf" target="_blank">KESKİN OTEL Sertifika TR</a></li>
                                 </ul>
                                 
                             </div>
@@ -68,11 +81,11 @@
 	  <div class="row">
 	  <footer class="py-3 my-4">
     <ul class="nav justify-content-center border-bottom pb-3 mb-3">
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Anasayfa</a></li>
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Hakkımızda</a></li>
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Odalar</a></li>
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Galeri</a></li>
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">İletişim</a></li>
+      <li class="nav-item"><a href="index.html" class="nav-link px-2 text-muted">Anasayfa</a></li>
+      <li class="nav-item"><a href="hakkimizda.html" class="nav-link px-2 text-muted">Hakkımızda</a></li>
+      <li class="nav-item"><a href="odalar.html" class="nav-link px-2 text-muted">Odalar</a></li>
+      <li class="nav-item"><a href="galeri.html" class="nav-link px-2 text-muted">Galeri</a></li>
+      <li class="nav-item"><a href="iletişim.html" class="nav-link px-2 text-muted">İletişim</a></li>
     </ul>
     <p class="text-center text-muted">Copyright © 2021 Tüm Hakları Saklıdır.
 </p>

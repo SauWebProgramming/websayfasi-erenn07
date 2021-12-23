@@ -19,7 +19,7 @@
 			<nav class="navbar navbar-expand-lg navbar-light bg-light">
 			  <div class="container-fluid">
 			  <img class="resim1"src="keskinhotel.jpg">
-				<a class="navbar-brand" href="#">Keskin Hotel</a>
+				<a class="navbar-brand" href="index.html">Keskin Hotel</a>
 				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
 				  <span class="navbar-toggler-icon"></span>
 				</button>
@@ -38,6 +38,21 @@
 		</div>
 	  </div>
 	  
+	  	  <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+
+
+
+<div class="container">
+    <ol class="breadcrumb breadcrumb-arrow">
+		<li><a href="index.html">Ana Sayfa</a></li>
+		<li class="active"><span>İletişim</span></li>
+	</ol>
+</div>	
+	  
+	  
+	  <form>
 	  <div class="mb-3">
   <label for="formGroupExampleInput" class="form-label">Ad Soyad</label>
   <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Adınız Soyadınız">
@@ -48,6 +63,9 @@
 <br>
   <label for="formGroupExampleInput" class="form-label">Mesajınız</label>
 	  <textarea class="form-control" id="exampleFormControlTextarea5" rows="3"></textarea>
+	  <br>
+	    <input type="submit" value="Gönder">
+</form>
 
 </div>
 		<div class="hotel3">
@@ -60,6 +78,8 @@
 	  <p>Keskin Otelcilik Tur.Sey.ve Tic.Ltd.Şti.
 Dalyan Mh. 353 Sk. No:2-4 48840
 Ortaca / MUĞLA
+</p>
+<p>TELEFON:+90 252 284 34 99
 </p>
 	  </div>
 	  
