@@ -1,5 +1,5 @@
 body{
-	background-image:url(bground.jpg);
+	background-image:url(Background/bground.jpg);
   background-size:auto 100%;
   
   
@@ -180,3 +180,5 @@ width:100%;
 .breadcrumb-arrow li span {
     color: #434a54
 }
+
+

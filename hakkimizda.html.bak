@@ -39,7 +39,6 @@
 	  </div>
 	  
 	  <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-<!------ Include the above in your HEAD tag ---------->
 
 
 
@@ -51,7 +50,7 @@
 	</ol>
 </div>
 
-<img class="hotel"src="hotel21.png">
+<img class="hotel"src="Hakkımızda/hotel21.png">
 	  
 	  <div class="blue-layer__content">
 
@@ -59,7 +58,7 @@
 
 
 <ul class="blue-layer__list">
-	<li>3 adet yüzme havuzu (480 | 200 | 100 square meter)</li>
+	<li>3 adet yüzme havuzu (480 | 200 | 100 m² )</li>
 	<li>3 adet havuz barı</li>
 	<li>2 adet çocuk havuzu</li>
 	<li>Kapalı restaurant (Kapasite: 300)</li>

@@ -1,7 +1,6 @@
 <!doctype html>
 <html lang="en">
   <head>
-    
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -40,12 +39,11 @@
 	  </div>
 	  
 	  	   <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-<!------ Include the above in your HEAD tag ---------->
 
 <div class="container">
     <ol class="breadcrumb breadcrumb-arrow">
 		<li><a href="index.html">Ana Sayfa</a></li>
-		<li class="active"><span>Hakkımızda</span></li>
+		<li class="active"><span>Galeri</span></li>
 	</ol>
 </div>
 
@@ -60,7 +58,7 @@
                     <li data-target="#Carousel" data-slide-to="2"></li>
                 </ol>
                  
-                <!-- Carousel items -->
+                <!-- Carousel -->
                 <div class="carousel-inner">
                     
                 <div class="item active">
@@ -92,11 +90,7 @@
                 	</div><!--.row-->
                 </div><!--.item-->
                  
-                </div><!--.carousel-inner-->
-                  <a data-slide="prev" href="#Carousel" class="left carousel-control">‹</a>
-                  <a data-slide="next" href="#Carousel" class="right carousel-control">›</a>
-                </div><!--.Carousel-->
-                 
+               
 		</div>
 	</div>
 </div><!--.container-->
@@ -108,7 +102,7 @@
       <li class="nav-item"><a href="hakkimizda.html" class="nav-link px-2 text-muted">Hakkımızda</a></li>
       <li class="nav-item"><a href="odalar.html" class="nav-link px-2 text-muted">Odalar</a></li>
       <li class="nav-item"><a href="galeri.html" class="nav-link px-2 text-muted">Galeri</a></li>
-      <li class="nav-item"><a href="iletişim.html" class="nav-link px-2 text-muted">İletişim</a></li>
+      <li class="nav-item"><a href="iletisim.html" class="nav-link px-2 text-muted">İletişim</a></li>
     </ul>
     <p class="text-center text-muted">Copyright © 2021 Tüm Hakları Saklıdır.
 </p>
