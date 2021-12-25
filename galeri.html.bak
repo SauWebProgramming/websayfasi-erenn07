@@ -52,11 +52,7 @@
 		<div class="col-md-12">
                 <div id="Carousel" class="carousel slide">
                  
-                <ol class="carousel-indicators">
-                    <li data-target="#Carousel" data-slide-to="0" class="active"></li>
-                    <li data-target="#Carousel" data-slide-to="1"></li>
-                    <li data-target="#Carousel" data-slide-to="2"></li>
-                </ol>
+             
                  
                 <!-- Carousel -->
                 <div class="carousel-inner">
@@ -67,8 +63,8 @@
                 	  <div class="col-md-3"><a href="Galeri/25a33c7a.jpg" class="thumbnail"><img src="Galeri/25a33c7a.jpg"  style="max-width:100%;"></a></div>	
                 	  <div class="col-md-3"><a href="Galeri/65feec40.jpg" class="thumbnail"><img src="Galeri/65feec40.jpg"  style="max-width:100%;"></a></div>
                 	  <div class="col-md-3"><a href="Galeri/33166e56.jpg" class="thumbnail"><img src="Galeri/33166e56.jpg"  style="max-width:100%;"></a></div>
-                	</div><!--.row-->
-                </div><!--.item--> <br> <br>
+                	</div>
+                </div> <br> <br>
                  
                 <div class="item">
                 	<div class="row">
@@ -77,8 +73,8 @@
                 		<div class="col-md-3"><a href="Galeri/b2a58e51.jpg" class="thumbnail"><img src="Galeri/b2a58e51.jpg" alt="Image" style="max-width:100%;"></a></div>
                 		<div class="col-md-3"><a href="Galeri/c1e65e23.jpg" class="thumbnail"><img src="Galeri/c1e65e23.jpg" alt="Image" style="max-width:100%;"></a></div>
                 		
-                	</div><!--.row-->
-                </div><!--.item--> <br> <br>
+                	</div>
+                </div> <br> <br>
                  
                 <div class="item">
                 	<div class="row">
@@ -87,13 +83,13 @@
                 		<div class="col-md-3"><a href="Galeri/dc003a38.jpg" class="thumbnail"><img src="Galeri/dc003a38.jpg" alt="Image" style="max-width:100%;"></a></div>
                 		<div class="col-md-3"><a href="Galeri/c170000f.jpg" class="thumbnail"><img src="Galeri/c170000f.jpg" alt="Image" style="max-width:100%;"></a></div>
                 		
-                	</div><!--.row-->
-                </div><!--.item-->
+                	</div>
+                </div>
                  
                
 		</div>
 	</div>
-</div><!--.container-->
+</div>
 
 	  <div class="row">
 	  <footer class="py-3 my-4">

@@ -178,4 +178,14 @@ width:100%;
     color: #434a54
 }
 
+.column {
 
+	width: 25%;
+  
+	padding: 5px;
+}
+
+.row::after {
+  clear: both;
+  display: table;
+}
